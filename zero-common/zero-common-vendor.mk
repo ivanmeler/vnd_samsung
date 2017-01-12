@@ -131,12 +131,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zero-common/proprietary/etc/wifi/nvram_net.txt_wisol_a1:system/etc/wifi/nvram_net.txt_wisol_a1 \
     vendor/samsung/zero-common/proprietary/etc/wifi/nvram_net.txt_wisol_b85_a1:system/etc/wifi/nvram_net.txt_wisol_b85_a1 \
     vendor/samsung/zero-common/proprietary/lib/hw/consumerir.exynos5.so:system/lib/hw/consumerir.exynos5.so \
-    vendor/samsung/7420-camera/proprietary/lib/libexif.so:system/lib/libexif.so \
-    vendor/samsung/7420-camera/proprietary/lib64/libexif.so:system/lib64/libexif.so \
-    vendor/samsung/7420-camera/proprietary/lib/libexifa.so:system/lib/libexifa.so \
-    vendor/samsung/7420-camera/proprietary/lib64/libexifa.so:system/lib64/libexifa.so \
-    vendor/samsung/7420-camera/proprietary/lib/hw/gralloc.exynos5.so:system/lib/hw/gralloc.exynos5.so \
-    vendor/samsung/7420-camera/proprietary/lib64/hw/gralloc.exynos5.so:system/lib64/hw/gralloc.exynos5.so \
+    vendor/samsung/zero-common/proprietary/lib/libexif.so:system/lib/libexif.so \
+    vendor/samsung/zero-common/proprietary/lib64/libexif.so:system/lib64/libexif.so \
+    vendor/samsung/zero-common/proprietary/lib/libexifa.so:system/lib/libexifa.so \
+    vendor/samsung/zero-common/proprietary/lib64/libexifa.so:system/lib64/libexifa.so \
+    vendor/samsung/zero-common/proprietary/lib/hw/gralloc.exynos5.so:system/lib/hw/gralloc.exynos5.so \
+    vendor/samsung/zero-common/proprietary/lib64/hw/gralloc.exynos5.so:system/lib64/hw/gralloc.exynos5.so \
     vendor/samsung/zero-common/proprietary/lib/hw/fingerprint.universal7420.so:system/lib/hw/fingerprint.universal7420.so \
     vendor/samsung/zero-common/proprietary/lib/hw/nfc_nci.universal7420.so:system/lib/hw/nfc_nci.universal7420.so \
     vendor/samsung/zero-common/proprietary/lib/hw/sensors.universal7420.so:system/lib/hw/sensors.universal7420.so \
